@@ -1,0 +1,60 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Left Ear -->
+  <path d="M60 50 L50 20 L70 40 Z" fill="#FF9E80" stroke="#FF6F00" stroke-width="2"/>
+  <path d="M60 50 L55 30 L65 42 Z" fill="#FFE0B2"/>
+
+  <!-- Right Ear -->
+  <path d="M140 50 L150 20 L130 40 Z" fill="#FF9E80" stroke="#FF6F00" stroke-width="2"/>
+  <path d="M140 50 L145 30 L135 42 Z" fill="#FFE0B2"/>
+
+  <!-- Head -->
+  <circle cx="100" cy="80" r="45" fill="#FF9E80" stroke="#FF6F00" stroke-width="2"/>
+
+  <!-- Face Details -->
+  <!-- Left Eye -->
+  <ellipse cx="85" cy="75" rx="8" ry="12" fill="#2C3E50"/>
+  <ellipse cx="87" cy="73" rx="3" ry="5" fill="white"/>
+
+  <!-- Right Eye -->
+  <ellipse cx="115" cy="75" rx="8" ry="12" fill="#2C3E50"/>
+  <ellipse cx="117" cy="73" rx="3" ry="5" fill="white"/>
+
+  <!-- Nose -->
+  <path d="M100 85 L95 92 L105 92 Z" fill="#FF6F00"/>
+
+  <!-- Mouth -->
+  <path d="M100 92 Q95 95 90 93" stroke="#FF6F00" stroke-width="2" fill="none"/>
+  <path d="M100 92 Q105 95 110 93" stroke="#FF6F00" stroke-width="2" fill="none"/>
+
+  <!-- Whiskers Left -->
+  <line x1="50" y1="80" x2="70" y2="78" stroke="#2C3E50" stroke-width="1.5"/>
+  <line x1="50" y1="85" x2="70" y2="85" stroke="#2C3E50" stroke-width="1.5"/>
+  <line x1="50" y1="90" x2="70" y2="92" stroke="#2C3E50" stroke-width="1.5"/>
+
+  <!-- Whiskers Right -->
+  <line x1="150" y1="80" x2="130" y2="78" stroke="#2C3E50" stroke-width="1.5"/>
+  <line x1="150" y1="85" x2="130" y2="85" stroke="#2C3E50" stroke-width="1.5"/>
+  <line x1="150" y1="90" x2="130" y2="92" stroke="#2C3E50" stroke-width="1.5"/>
+
+  <!-- Body -->
+  <ellipse cx="100" cy="145" rx="40" ry="50" fill="#FF9E80" stroke="#FF6F00" stroke-width="2"/>
+
+  <!-- Belly -->
+  <ellipse cx="100" cy="150" rx="25" ry="35" fill="#FFE0B2"/>
+
+  <!-- Left Arm -->
+  <ellipse cx="70" cy="140" rx="12" ry="30" fill="#FF9E80" stroke="#FF6F00" stroke-width="2" transform="rotate(-20 70 140)"/>
+
+  <!-- Right Arm -->
+  <ellipse cx="130" cy="140" rx="12" ry="30" fill="#FF9E80" stroke="#FF6F00" stroke-width="2" transform="rotate(20 130 140)"/>
+
+  <!-- Left Leg -->
+  <ellipse cx="85" cy="180" rx="10" ry="20" fill="#FF9E80" stroke="#FF6F00" stroke-width="2"/>
+
+  <!-- Right Leg -->
+  <ellipse cx="115" cy="180" rx="10" ry="20" fill="#FF9E80" stroke="#FF6F00" stroke-width="2"/>
+
+  <!-- Tail -->
+  <path d="M135 160 Q160 150 165 130 Q168 110 160 95" stroke="#FF9E80" stroke-width="15" fill="none" stroke-linecap="round"/>
+  <path d="M135 160 Q160 150 165 130 Q168 110 160 95" stroke="#FF6F00" stroke-width="2" fill="none"/>
+</svg>
